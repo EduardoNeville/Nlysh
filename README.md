@@ -1,5 +1,3 @@
-# Nlysh
-
 # What is Nlysh
 
 Nlysh CLI tests and monitors your models to find potential vulnerabilities of your model.
