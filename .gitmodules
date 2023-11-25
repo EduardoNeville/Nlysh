@@ -1,0 +1,7 @@
+[submodule "benchmarks/machiavelli"]
+	path = benchmarks/machiavelli
+	url = https://github.com/aypan17/machiavelli.git
+
+[submodule "testModel/dragon-mistral-7b-v0"]
+        path = testModel/dragon-mistral-7b-v0
+        url =  https://huggingface.co/llmware/dragon-mistral-7b-v0
