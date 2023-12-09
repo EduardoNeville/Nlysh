@@ -6,9 +6,13 @@
 2. Open
     Researchers can see who has access their benchmark
 
+# Things to do
 
+1. Read up on hugging face
+2. Local LLMs too
+3. API's etc
 
-
+Have a standard way of providing a unification plug for this
 
 ## Benchmarks
 
